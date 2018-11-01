@@ -1,0 +1,6 @@
+cufflinks
+plotly
+folium
+sklearn
+pandas>=0.20
+scikit_learn>=0.19
