@@ -1,6 +1,6 @@
 ## Bike station clustering
 
-Script to perform a clustering based on either the location of bike stations. 
+Script to perform a clustering based on either the location of bike stations or other characteristics. 
 
 !["clustering"](output/geo_clustering.png)
 *Chart : Result of the dbscan algorithm with parameters 0.25km and minimum 2 stations in a cluster*
